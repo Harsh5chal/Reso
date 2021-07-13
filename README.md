@@ -1,5 +1,5 @@
 # Resto
-
+![Reso](https://github.com/Harsh5chal/Projects-Snapshots/blob/main/home.PNG)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
 ## Development server
